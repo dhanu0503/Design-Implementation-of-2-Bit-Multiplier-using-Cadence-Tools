@@ -62,13 +62,13 @@ Procedure for Schematic simulation using Cadence
 +	Create – Cell view – From Cell view
 +	The cell view from cell view window appears
 +	Check Lib Name, Cell Name, From View name must be schematic Press ok
-•	Now Symbol generation form appears. Click Ok If No changes required
-•	A new window with with default symbol is created.
-•	Edit the symbol if you want to give actual symbol shape else continue.
-•	Execute Create-Cell view-from cell view
-•	Library Name and Cell Name must be same which you have used for schematic. Press OK
-•	Check for the position of pin side.Prss OK
-•	Edit for the shape by Create-Shape-Choose required options to edit.
+-	Now Symbol generation form appears. Click Ok If No changes required
+-	A new window with with default symbol is created.
+- Edit the symbol if you want to give actual symbol shape else continue.
+- Execute Create-Cell view-from cell view
+- Library Name and Cell Name must be same which you have used for schematic. Press OK
+- Check for the position of pin side.Prss OK
+- Edit for the shape by Create-Shape-Choose required options to edit.
 
  ![WhatsApp Image 2024-10-19 at 09 54 47_a90a5c9f](https://github.com/user-attachments/assets/a6662ccb-121f-4859-8555-6fe14185c277)
 
