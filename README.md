@@ -9,6 +9,7 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
   
 ### SCHEMATIC SIMULATION:
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
+
 Commands to get into Cadence:
 
 1. Right-click and open the terminal window.
@@ -21,6 +22,7 @@ Commands to get into Cadence:
 #### Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open
+   
     i) virtuoso/command interpreter window
   	 ii)”Whats New…”
 2.	Close the 2nd window
