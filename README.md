@@ -1,36 +1,38 @@
-# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools 
+## Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools 
 
-## Aim:
+### Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
 
-## Tools Required:
+### Tools Required:
 - Personal Computer
 - Cadence Virtuoso Software
   
-## SCHEMATIC SIMULATION:
+### SCHEMATIC SIMULATION:
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence:
 
 1. Right-click and open the terminal window.
 2. Type the following commands and press enter:
+   
   - csh
   - source /cadence/install/cshrc
   - virtuoso
-Procedure for Schematic simulation using Cadence
+
+#### Procedure for Schematic simulation using Cadence
 
 1.	Now two windows must open
     i) virtuoso/command interpreter window
   	 ii)”Whats New…”
 2.	Close the 2nd window
 3.	Use 1st window i.e virtuoso window (CIW) for further processing.
-  i.	Create a New Library
-  ii.	Create Schematic Cell view.
-  iii.	Create the Symbol for schematic Cell view.
-  iv.	Create the test Cell view.
-  v.	Analog simulation by spectre
+   -	Create a New Library
+   - Create Schematic Cell view.
+   - Create the Symbol for schematic Cell view.
+   - Create the test Cell view.
+   - Analog simulation by spectre
 
-## Steps for Schematic Simulation using Cadence:
-### i)	Procedure for Creating New Library.
+### Steps for Schematic Simulation using Cadence:
+#### i)	Procedure for Creating New Library.
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
 •	Enable Attach to an existing technology library, Click OK
@@ -86,7 +88,7 @@ Procedure for Schematic simulation using Cadence
 ![WhatsApp Image 2024-10-19 at 09 54 48_c49a748f](https://github.com/user-attachments/assets/4b9925e8-ddeb-4b16-9768-e5206d44c4d0)
 
  
-## Analog simulation by SPECTRE.
+### Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
 +	Execute Setup—Simulation/directory/Host A new window opens
@@ -95,7 +97,7 @@ Procedure for Schematic simulation using Cadence
 +	Select the type and set the specifications and press OK
 +	Execute Output s—to be plotted – Select on Schematic
 +	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
-•	Execute Simulation -- Net list and Run
+-	Execute Simulation -- Net list and Run
 
 ![WhatsApp Image 2024-10-19 at 09 54 46_d72c8065](https://github.com/user-attachments/assets/2e7f8c08-3966-4c39-b9d7-68b70b904192)
 
