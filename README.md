@@ -9,7 +9,7 @@ To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simu
   
 ### Circuit Diagram:
 
-![WhatsApp Image 2024-11-13 at 16 25 38_0ab440ab](https://github.com/user-attachments/assets/d8cfdb77-9a87-4d59-a106-dd86efb60cfc)
+![WhatsApp Image 2024-11-13 at 16 25 39_c1439924](https://github.com/user-attachments/assets/d9cd3034-570c-4b86-8847-b608ccb1c2b5)
 
 ### SCHEMATIC SIMULATION:
 PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
